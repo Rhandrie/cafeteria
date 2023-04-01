@@ -448,7 +448,7 @@ height: 600px;
 /* ================ AREA DOS BREAKPOINTS DE RESPONSIVIDADE========================= */
 
  /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 400px) and (max-width: 767px)    
+@media (min-width: 0px) and (max-width: 767px)    
 
 { header{ 
     background-position: 0px 0px;
